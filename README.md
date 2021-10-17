@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumedha Deshpande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working as a Product Developer at **BMC Software**
 
 - 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m working on project [URL shortener](https://github.com/sumedha1308/url-shortener)
 
 - 📫 How to reach me **sumedhasd1308@gmail.com**
 
