@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumedha Deshpande</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working as a Product Developer at **BMC Software**
+- 🔭 I’m currently working as a Associate Product Developer at **BMC Software**
 
 - 🌱 I’m currently learning **Web Development**
 
